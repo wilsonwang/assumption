@@ -98,7 +98,7 @@ body
 
 .card .details .info
 {
-    color: blue;
+    color: black;
     margin-top: 10px;
 }
 .card .details .cast{position: relative;}
