@@ -48,6 +48,8 @@ body
 .card .poster img
 {
     width: 100%;
+    /* 13 Aug */
+    height: 100%;
     transition: 0.5s;
 }
 .card:hover .poster img
